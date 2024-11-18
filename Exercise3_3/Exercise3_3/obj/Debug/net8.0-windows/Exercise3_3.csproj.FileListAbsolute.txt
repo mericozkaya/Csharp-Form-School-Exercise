@@ -1,0 +1,16 @@
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\bin\Debug\net8.0-windows\Exercise3_3.exe
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\bin\Debug\net8.0-windows\Exercise3_3.deps.json
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\bin\Debug\net8.0-windows\Exercise3_3.runtimeconfig.json
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\bin\Debug\net8.0-windows\Exercise3_3.dll
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\bin\Debug\net8.0-windows\Exercise3_3.pdb
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\obj\Debug\net8.0-windows\Exercise3_3.Form1.resources
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\obj\Debug\net8.0-windows\Exercise3_3.csproj.GenerateResource.cache
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\obj\Debug\net8.0-windows\Exercise3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\obj\Debug\net8.0-windows\Exercise3_3.AssemblyInfoInputs.cache
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\obj\Debug\net8.0-windows\Exercise3_3.AssemblyInfo.cs
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\obj\Debug\net8.0-windows\Exercise3_3.csproj.CoreCompileInputs.cache
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\obj\Debug\net8.0-windows\Exercise3_3.dll
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\obj\Debug\net8.0-windows\refint\Exercise3_3.dll
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\obj\Debug\net8.0-windows\Exercise3_3.pdb
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\obj\Debug\net8.0-windows\Exercise3_3.genruntimeconfig.cache
+C:\Users\meric\source\repos\Exercise3_3\Exercise3_3\obj\Debug\net8.0-windows\ref\Exercise3_3.dll

@@ -1,0 +1,16 @@
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\bin\Debug\net8.0-windows\wpexercise1.exe
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\bin\Debug\net8.0-windows\wpexercise1.deps.json
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\bin\Debug\net8.0-windows\wpexercise1.runtimeconfig.json
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\bin\Debug\net8.0-windows\wpexercise1.dll
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\bin\Debug\net8.0-windows\wpexercise1.pdb
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\obj\Debug\net8.0-windows\wpexercise1.Form1.resources
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\obj\Debug\net8.0-windows\wpexercise1.csproj.GenerateResource.cache
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\obj\Debug\net8.0-windows\wpexercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\obj\Debug\net8.0-windows\wpexercise1.AssemblyInfoInputs.cache
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\obj\Debug\net8.0-windows\wpexercise1.AssemblyInfo.cs
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\obj\Debug\net8.0-windows\wpexercise1.csproj.CoreCompileInputs.cache
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\obj\Debug\net8.0-windows\wpexercise1.dll
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\obj\Debug\net8.0-windows\refint\wpexercise1.dll
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\obj\Debug\net8.0-windows\wpexercise1.pdb
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\obj\Debug\net8.0-windows\wpexercise1.genruntimeconfig.cache
+C:\Users\meric\source\repos\wpexercise1\wpexercise1\obj\Debug\net8.0-windows\ref\wpexercise1.dll

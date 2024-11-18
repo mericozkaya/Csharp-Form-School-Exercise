@@ -1,0 +1,10 @@
+C:\Users\meric\source\repos\Example4.1\Example4.1\bin\Debug\Example4.1.exe.config
+C:\Users\meric\source\repos\Example4.1\Example4.1\bin\Debug\Example4.1.exe
+C:\Users\meric\source\repos\Example4.1\Example4.1\bin\Debug\Example4.1.pdb
+C:\Users\meric\source\repos\Example4.1\Example4.1\obj\Debug\Example4.1.csproj.AssemblyReference.cache
+C:\Users\meric\source\repos\Example4.1\Example4.1\obj\Debug\Example4._1.Form1.resources
+C:\Users\meric\source\repos\Example4.1\Example4.1\obj\Debug\Example4._1.Properties.Resources.resources
+C:\Users\meric\source\repos\Example4.1\Example4.1\obj\Debug\Example4.1.csproj.GenerateResource.cache
+C:\Users\meric\source\repos\Example4.1\Example4.1\obj\Debug\Example4.1.csproj.CoreCompileInputs.cache
+C:\Users\meric\source\repos\Example4.1\Example4.1\obj\Debug\Example4.1.exe
+C:\Users\meric\source\repos\Example4.1\Example4.1\obj\Debug\Example4.1.pdb
